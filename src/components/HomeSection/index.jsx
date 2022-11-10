@@ -1,5 +1,5 @@
 import React from 'react'
-import Section, { SectionContent } from '../Section'
+import { Section, SectionContent } from '../Section'
 
 const HomeSection = (props) => {
   return (
